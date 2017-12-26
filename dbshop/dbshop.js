@@ -1,5 +1,6 @@
 var app = {};
-;(function ($, exports) {
+var jQuery = jQuery;
+(function ($, exports) {
 	var tempData = [];
 	var proArr = []; //每个属性长度数组
 
