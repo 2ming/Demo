@@ -8,6 +8,6 @@
 
 &emsp;&emsp; 移动端轮播图 [预览](https://2ming.github.com/Demo/slider/example/demo.html)
 
-- [slide](https://github.com/2ming/Demo/tree/master/dbshop)
+- [dbshop](https://github.com/2ming/Demo/tree/master/dbshop)
 
 &emsp;&emsp; 选择商品属性生产`Table` [预览](https://2ming.github.com/Demo/dbshop/example/goods.html)
