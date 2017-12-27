@@ -22,6 +22,7 @@
 - [冴羽的博客](https://github.com/mqyqingfeng/Blog) `JavaScript`
 - [Xufei博客](https://github.com/xufei/blog) `Angular`
 - [张鑫旭](http://www.zhangxinxu.com/wordpress/) `CSS` `JavaScript` `SVG`
+- [阮一峰](http://www.ruanyifeng.com/blog/) `Javascript` `入门教程简单易懂`
 - [众成翻译](http://zcfy.cc/read/discovery) `国外优秀文章汉化`
 
 
@@ -30,6 +31,9 @@
 - [jQuery实现](https://github.com/JsAaron/jQuery)
 - [react-native资料](https://github.com/reactnativecn/react-native-guide)
 - [ECMAScript 6](https://github.com/ruanyf/es6tutorial)
+- [Canvas动画](http://lamberta.github.io/html5-animation/)
+- [JavaScript大全](https://github.com/mbeaudru/modern-js-cheatsheet)
+- [项目规范](https://github.com/wearehive/project-guidelines/blob/master/README-zh.md)
 
 ### 特效
 
