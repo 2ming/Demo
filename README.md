@@ -1,4 +1,4 @@
-# Demo
+# 前端实践
 
 - [slide](https://github.com/2ming/Demo/tree/master/slide)
 
@@ -11,6 +11,8 @@
 - [dbshop](https://github.com/2ming/Demo/tree/master/dbshop)
 
 &emsp;&emsp; 选择商品属性生产`Table` [预览](https://2ming.github.com/Demo/dbshop/example/goods.html)
+
+- [学习笔记](https://github.com/2ming/Demo/issues)
 
 # 个人资料整理
 
