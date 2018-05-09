@@ -14,6 +14,10 @@
 
 - [学习笔记](https://github.com/2ming/Demo/issues)
 
+- node 实践
+  -[koa2+vue](http://seemnite.2ming.me)blog
+  -[NodeWebSpider](https://github.com/2ming/NodeWebSpider) 参考python3网络爬虫node重写
+
 # 个人资料整理
 
 ### 博客 网站
