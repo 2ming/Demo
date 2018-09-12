@@ -22,7 +22,7 @@
 - [快速排序](https://github.com/2ming/Demo/blob/master/Sorting/QuickSort.js)
 
 - node 实践
-  - [koa2+vue+mongodb](http://seemnite.2ming.me) blog
+  - [koa2+vue+mongodb](https://github.com/2ming/seemnite) blog
   - [NodeWebSpider](https://github.com/2ming/NodeWebSpider) 参考python3网络爬虫node重写
 
 # 个人资料整理
