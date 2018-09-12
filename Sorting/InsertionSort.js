@@ -1,20 +1,15 @@
-// 选择排序
-export default function BubbleSort(arr) {
+// 插入排序
+export default function InsertionSort(arr) {
   let len = arr.length
   let array = [...arr]
   for(let i = 1; i < len; i++) {
-    let flag = false
-    for(let j = 0; j < len - i; j++) {
-      if (array[j] > array[j + 1]) {
-        let temp = array[j]
-        array[j] = array[j + 1]
-        array[j + 1] = temp
-        flag = true
-      }
-    }
-    // 优化冒泡
-    if(!flag) {
-      return array
+    let curr = i
+    while(array[curr] < array[curr - 1]) {
+      let temp = array[curr]
+      array[curr] = array[curr - 1]
+      array[curr - 1] = temp
+      curr -= 1
     }
   }
+  return array
 }
