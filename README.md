@@ -14,6 +14,13 @@
 
 - [学习笔记](https://github.com/2ming/Demo/issues)
 
+# 排序
+
+- [冒泡排序](https://github.com/2ming/Demo/Sorting/BubbleSort.js)
+- [选择排序](https://github.com/2ming/Demo/Sorting/SelectionSort.js)
+- [插入排序](https://github.com/2ming/Demo/Sorting/InsertionSort.js)
+- [快速排序](https://github.com/2ming/Demo/Sorting/QuickSort.js)
+
 - node 实践
   - [koa2+vue+mongodb](http://seemnite.2ming.me) blog
   - [NodeWebSpider](https://github.com/2ming/NodeWebSpider) 参考python3网络爬虫node重写
@@ -38,9 +45,11 @@
 - [Canvas动画](http://lamberta.github.io/html5-animation/)
 - [JavaScript大全](https://github.com/mbeaudru/modern-js-cheatsheet)
 - [项目规范](https://github.com/wearehive/project-guidelines/blob/master/README-zh.md)
+- [ES兼容表](http://kangax.github.io/compat-table)
 
 ### 特效
 
+- [loading图标](https://www.loading.io/)
 - [140字符内的JavaScript可视化程序](https://www.dwitter.net/)
 - [CSS动画库Hover](http://ianlunn.github.io/Hover/)
 - [CSS动画库animate](https://daneden.github.io/animate.css/)
