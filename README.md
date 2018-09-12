@@ -16,10 +16,10 @@
 
 # 排序
 
-- [冒泡排序](https://github.com/2ming/Demo/Sorting/BubbleSort.js)
-- [选择排序](https://github.com/2ming/Demo/Sorting/SelectionSort.js)
-- [插入排序](https://github.com/2ming/Demo/Sorting/InsertionSort.js)
-- [快速排序](https://github.com/2ming/Demo/Sorting/QuickSort.js)
+- [冒泡排序](https://github.com/2ming/Demo/blob/master/Sorting/BubbleSort.js)
+- [选择排序](https://github.com/2ming/Demo/blob/master/Sorting/SelectionSort.js)
+- [插入排序](https://github.com/2ming/Demo/blob/master/Sorting/InsertionSort.js)
+- [快速排序](https://github.com/2ming/Demo/blob/master/Sorting/QuickSort.js)
 
 - node 实践
   - [koa2+vue+mongodb](http://seemnite.2ming.me) blog
