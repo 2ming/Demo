@@ -27,6 +27,13 @@
 
 # 个人资料整理
 
+### 框架
+
+- [Vue技术内幕](http://hcysun.me/vue-design/) `Vue`
+- [React小书](http://huziketang.mangojuice.top/books/react/) `React`
+- [A DIY guide to build your own React](https://github.com/pomber/didact) `React`
+- [Promise迷你书](http://liubin.org/promises-book/) `Promise`
+
 ### 博客 网站
 
 - [CSS魔法](https://github.com/cssmagic/blog) `CSS`
