@@ -27,13 +27,6 @@
 
 # 个人资料整理
 
-### 框架
-
-- [Vue技术内幕](http://hcysun.me/vue-design/) `Vue`
-- [React小书](http://huziketang.mangojuice.top/books/react/) `React`
-- [A DIY guide to build your own React](https://github.com/pomber/didact) `React`
-- [Promise迷你书](http://liubin.org/promises-book/) `Promise`
-
 ### 博客 网站
 
 - [CSS魔法](https://github.com/cssmagic/blog) `CSS`
@@ -53,6 +46,22 @@
 - [JavaScript大全](https://github.com/mbeaudru/modern-js-cheatsheet)
 - [项目规范](https://github.com/wearehive/project-guidelines/blob/master/README-zh.md)
 - [ES兼容表](http://kangax.github.io/compat-table)
+- [TypeScript资源集合](https://github.com/semlinker/awesome-typescript)
+- [Canvas基础教程](https://www.yuque.com/airing/canvas/readme)
+
+### 视频课程
+
+- [单词速记](https://www.bilibili.com/video/av18195806/?redirectFrom=h5)
+- [英语音标](https://www.bilibili.com/video/av8237991/?redirectFrom=h5)
+- [TypeScript视频教程](https://scrimba.com/g/gintrototypescript)
+- [北京大学-计算机编程](https://www.bilibili.com/video/av12636241/?from=search&seid=1107123242546844500)
+- [北京大学-C程序设计进阶](https://www.bilibili.com/video/av12637226/?from=search&seid=1107123242546844500)
+- [北京大学-计算机组成](https://www.bilibili.com/video/av12666021/?from=search&seid=1107123242546844500)
+- [北京大学-算法基础](https://www.bilibili.com/video/av12640020/?from=search&seid=1107123242546844500)
+- [北京大学-数据结构基础](https://www.bilibili.com/video/av12642530/?from=search&seid=1107123242546844500)
+- [北京大学-操作系统原理](https://www.bilibili.com/video/av12667165/?from=search&seid=1107123242546844500)
+- [北京大学-算法设计与分析](https://www.bilibili.com/video/av12681389/?from=search&seid=1107123242546844500)
+- [北京大学-高级数据结构与算法](https://www.bilibili.com/video/av12644512/?from=search&seid=1107123242546844500)
 
 ### 特效
 
@@ -68,6 +77,14 @@
 
 ### 工具
 
+### 其他
+- [基础物理学资料](http://www.feynmanlectures.caltech.edu/)
+
+
 ### 推荐书籍
 
-- [你不知道的Javascript](https://item.jd.com/10574387192.html) `不管是入门还是进阶，读完之后都会有很大的收获` `已读`
+- [你不知道的Javascript](https://item.jd.com/10574387192.html) `不管是入门还是进阶，读完之后都会有很大的收获`
+- [Vue技术内幕](http://hcysun.me/vue-design/) `Vue`
+- [React小书](http://huziketang.mangojuice.top/books/react/) `React`
+- [A DIY guide to build your own React](https://github.com/pomber/didact) `React`
+- [Promise迷你书](http://liubin.org/promises-book/) `Promise`
